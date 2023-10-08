@@ -1,0 +1,183 @@
+Search words: graph neural network
+Start date of search: 2014
+
+1. Neural Network Spectral Robustness Under Perturbations of the Underlying Graph (2016)
+Cites count: 37
+Recent studies have been using graph-theoretical approaches to model complex networks (such as social, infrastructural, or biological networks) and how their hardwired circuitry relates to their dynamic evolution in time. Understanding how configuration reflects on the coupled behavior in a system of dynamic nodes can be of great importance, for example, in the context of how the brain connectome is affecting brain function. However, the effect of connectivity patterns on network dynamics is far from being fully understood.
+keywords: network, dynamic, study, spectrum, understanding configuration, effect connectivity, brain connectome, result, model, modeling, regulatory, circuitry, connection edge, density, aspect, graph, connectomics
+url: http://dx.doi.org/10.1162/neco_a_00798
+
+2. Power System Network Topology Identification Based on Knowledge Graph and Graph Neural Network (2021)
+Cites count: 11
+The automatic identification of the topology of power networks is important for the data-driven and situation-aware operation of power grids. Traditional methods of topology identification lack a data-tolerant mechanism, and the accuracy of their performance in terms of identification is thus affected by the quality of data. Topology identification is related to the link prediction problem.
+keywords: data, graph, identification topology power network, method, conflicting, tolerant, informational conflict, connection entity, fault tolerance, information, based knowledge, related
+url: http://dx.doi.org/10.3389/fenrg.2020.613331
+
+3. Graph-Based LSTM for Anti-Money Laundering: Experimenting Temporal Graph Convolutional Network With Bitcoin Data (2022)
+Cites count: 5
+AbstractElliptic data—one of the largest Bitcoin transaction graphs—has admitted promising results in many studies using classical supervised learning and graph convolutional network models for anti-money laundering. Despite the promising results provided by these studies, only few have considered the temporal information of this dataset, wherein the results were not very satisfactory. Moreover, there is very sparse existing literature that applies active learning to this type of blockchain dataset.
+keywords: model, dataset, learning graph, literature applies active, temporal, study, bitcoin transaction, promising result, provided, applied, graphs, gcn, dropout
+url: http://dx.doi.org/10.1007/s11063-022-10904-8
+
+4. Spatiotemporal Graph Convolutional Recurrent Neural Network Model for Citywide Air Pollution Forecasting (2021)
+Cites count: 1
+This paper applies a Spatiotemporal Graph Convolutional Recurrent Neural Network which is a tight combination of a Graph Neural Network (GNN) to a Recurrent Neural Network (RNN) architecture for air pollution forecasting in long-term for the entire city. Our model can effectively learn the spatial and temporal features of the air pollution data and its influential factors (e.g. weather, traffic, external areas) at the time.
+keywords: model, gnn, graph, rnn, network, air pollution forecasting, traffic
+url: http://dx.doi.org/10.36227/techrxiv.14958552.v1
+
+5. DeepPN: A Deep Parallel Neural Network Based on Convolutional Neural Network and Graph Convolutional Network for Predicting RNA-Protein Binding Sites (2022)
+Cites count: 1
+Abstract Background RNA-binding proteins (RBPs) play a vital role in post-transcriptional control. Identification of RBPs binding sites is a key step for the anatomy of the essential mechanism of gene regulation by controlling splicing, stability, localization and translation. Traditional methods for detecting RBPs binding sites are time-consuming and computationally-intensive.
+keywords: rbps, rbp, method, sites, deeppn, data, rna, binding site, feature, control, controlling, prediction, network, effectively, effective, structural, structure, cnn, parallel, convolutional, gcn, jat, jats
+url: http://dx.doi.org/10.21203/rs.3.rs-1483700/v1
+
+6. Data-Driven Graph Filter-Based Graph Convolutional Neural Network Approach for Network-Level Multi-Step Traffic Prediction (2022)
+Cites count: 1
+Accurately predicting network-level traffic conditions has been identified as a critical need for smart and advanced transportation services. In recent decades, machine learning and artificial intelligence have been widely applied for traffic state, including traffic volume prediction. This paper proposes a novel deep learning model, Graph Convolutional Neural Network with Data-driven Graph Filter (GCNN-DDGF), for network-wide multi-step traffic volume prediction.
+keywords: model, network traffic, predicting, proposes, proposed, widely, volume prediction, learning, gcnn, graph, convolutional, convolution, data, deep, state, recurrent, advanced, angeles
+url: http://dx.doi.org/10.3390/su142416701
+
+7. Identifying Disease-Associated circRNAs Based on Edge-Weighted Graph Attention and Heterogeneous Graph Neural Network (2022)
+Cites count: 1
+AbstractMotivationCircular RNAs (circRNAs) with varied biological activities are implicated in pathogenic processes, according to new findings. They are regarded as promising biomarkers for the diagnosis and prognosis due to their structural features. Computational approaches, as opposed to traditional experiments, can identify the circRNA-disease connections at a lower cost.
+keywords: network, jat, jats, data, circrnas, cdhgnn, heterogeneity, circrna connection, feature, disease, edge graph attention heterogeneous, title, pathogenic, approach, according, finding, multi, identify, identifying, node, based, probable
+url: http://dx.doi.org/10.1101/2022.05.04.490565
+
+8. Protein Fold Classification Using Graph Neural Network and Protein Topology Graph (2022)
+Cites count: 1
+AbstractProtein fold classification reveals key structural information about proteins that is essential for understanding their function. While numerous approaches exist in the literature that classifies protein fold from sequence data using machine learning, there is hardly any approach that classifies protein fold from the secondary or tertiary structure data using deep learning. This work proposes a novel protein fold classification technique based on graph neural network and protein topology graphs.
+keywords: structural, structure, protein fold classification, jat, jats, based graph, sequence data, xlink, approach, http, provides, provide, work, learning, classifies, set, setting, curation, new, curated database, cath, applies, applying, novel
+url: http://dx.doi.org/10.1101/2022.08.10.503436
+
+9. Graph Neural Network Based Heterogeneous Propagation Scheme for Classifying Alzheimer’s Disease (2021)
+Cites count: 0
+ABSTRACTDeep learning frameworks for disease classification using neuroimaging and non-imaging information require the capability of capturing individual features as well as associative information among subjects. Graphs represent the interactions among nodes, which contain the individual features, through the edges in order to incorporate the inter-relatedness among heterogeneous data. Previous graph-based approaches for disease classification have focused on the similarities among subjects by establishing customized functions or solely based on imaging features.
+keywords: graphs, graph, models, based imaging, proposed model, jat, jats, function, functional, capturing individual feature, subject, disease classification, data, information, propose, capture, neural, demographic
+url: http://dx.doi.org/10.1101/2021.01.21.427712
+
+10. Uncertainty-Aware Graph Neural Network for Semi-Supervised Diversified Recommendation (2023)
+Cites count: 0
+Abstract Graphs are a powerful tool for representing structured and relational data in various domains, including social networks, knowledge graphs, and molecular structures. Semi-supervised learning on graphs has emerged as a promising approach to address real-world challenges and applications. In this paper, we propose an uncertainty-aware pseudo-label selection framework for promoting diversity learning in recommendation systems.
+keywords: diversity, diverse, framework, labeled, label, graphs, graph, recommendation, method, uncertainty, supervised model, pseudo, data, including, include, network, networks, paper, structured, structure, training set
+url: http://dx.doi.org/10.21203/rs.3.rs-3263186/v1
+
+11. Graph Neural Network-Based Knowledge Graph Embedding for Personalized Recommendation Systems (2023)
+Cites count: 0
+Abstract With the increase in online content, recommendation systems have become an important tool to filter information overload and provide users with personalized experiences. Collaborative filtering is a classical recommendation technique that represents users and items as vectors. However, recent studies have shown that item attributes, represented as a Knowledge Graph (KG), can provide rich auxiliary information for recommendation systems.
+keywords: recommendation, recommendations, user, item, filter information, representation, filtering, content, graph, represents, represented, related, improve, based
+url: http://dx.doi.org/10.21203/rs.3.rs-2689875/v1
+
+12. DRACON: Disconnected Graph Neural Network for Atom Mapping in Chemical Reactions (2020)
+Cites count: 0
+&lt;p&gt;Machine learning solved many challenging problems in computer-assisted synthesis prediction (CASP). We formulate a reaction prediction problem in terms of node-classification in a disconnected graph of source molecules and generalize a graph convolution neural network for disconnected graphs. Here we demonstrate that our approach can successfully predict reaction outcome and atom-mapping during a chemical transformation.
+keywords: reaction, reactions, prediction, predict, chemical, learning, learned, demonstrate, demonstrates, disconnected graph, vector, problem, set
+url: http://dx.doi.org/10.26434/chemrxiv.12594785
+
+13. Heterogeneous Graph Neural Network With Time Sequence Information Integration (2022)
+Cites count: 0
+&lt;p&gt;Recommendation systems, as a kind of information filtering system, can understand users interests based on their personal data or historical behavior records, and are widely used in Web applications such as e-commerce, search, and streaming websites. Based on the fact that users with similar preferences may be interested in similar items, most existing recommendation methods mine this synergistic information through user-item interactions, called collaborative filtering. Recent interaction information can better reflect users dynamic interests over time.
+keywords: information, user, network, graph, graphs, interaction, interact, model, data, temporal, based, recommendation, recommender, node representation, heterogeneous, different, step, dynamic, item, similar, time, behavior, attribute
+url: http://dx.doi.org/10.36227/techrxiv.21342033
+
+14. Semi-Supervised Deep Learning With Graph Neural Network for Cross-Species Regulatory Sequence Prediction (2022)
+Cites count: 0
+AbstractGenome-wide association studies have systematically identified thousands of single nucleotide polymorphisms (SNPs) associated with complex genetic diseases. However, the majority of those SNPs were found in non-coding genomic regions, preventing the understanding of the underlying causal mechanism. Predicting molecular processes based on the DNA sequence represents a promising approach to understand the role of those non-coding SNPs.
+keywords: sequencing, dna sequence, associated, genome association, genomic, snps, approach understand, functional data training, deep learning, understanding, predicting, prediction, based, different
+url: http://dx.doi.org/10.1101/2022.05.17.492285
+
+15. View-Adaptive Graph Neural Network for Action Recognition (2022)
+Cites count: 0
+The dataset used in this article is NTU-RGB-60, 120 and Kinetics for skeleton based human action recognition.
+keywords: ntu, recognition
+url: http://dx.doi.org/10.36227/techrxiv.18318929
+
+16. Heterogeneous Graph Neural Network With Time Sequence Information Integration (2022)
+Cites count: 0
+&lt;p&gt;Recommendation systems, as a kind of information filtering system, can understand users interests based on their personal data or historical behavior records, and are widely used in Web applications such as e-commerce, search, and streaming websites. Based on the fact that users with similar preferences may be interested in similar items, most existing recommendation methods mine this synergistic information through user-item interactions, called collaborative filtering. Recent interaction information can better reflect users dynamic interests over time.
+keywords: information, user, network, graph, graphs, interaction, interact, model, data, temporal, based, recommendation, recommender, node representation, heterogeneous, different, step, dynamic, item, similar, time, behavior, attribute
+url: http://dx.doi.org/10.36227/techrxiv.21342033.v1
+
+17. Differentially Private Knowledge Graph Neural Network for Recommeder System (2023)
+Cites count: 0
+Abstract Knowledge Graphs (KGs) have been instrumental in mitigating the challenges of cold start and data scarcity in recommender systems, serving as a kind of auxiliary information. However, recent studies reveal that KGs, while beneficial, may also inadvertently furnish malicious attackers with more comprehensive background knowledge, escalating the risk of user privacy data breaches within these recommender systems. Current frameworks, which amalgamate KGs with privacy-preserving techniques, predominantly concentrate on enhancing privacy preservation, often at the expense of recommendation efficacy.
+keywords: user privacy, recommender, recommendation, kgs, data, item, framework, knowledge, noise, technique, dpknrec, kind auxiliary, benchmark, benchmarks, jat, jats, neural network, datasets, empirical
+url: http://dx.doi.org/10.21203/rs.3.rs-3270487/v1
+
+18. Embedding-Based Deep Neural Network and Convolutional Neural Network Graph Classifiers (2023)
+Cites count: 0
+One of the most significant graph data analysis tasks is graph classification, as graphs are complex data structures used for illustrating relationships between entity pairs. Graphs are essential in many domains, such as the description of chemical molecules, biological networks, social relationships, etc. Real-world graphs are complicated and large.
+keywords: graphs, graph data, datasets, dataset, network, result, learning model, classifier, classification, relationship, way represent, classifiers deep neural, proposed, embedding
+url: http://dx.doi.org/10.3390/electronics12122715
+
+19. Graph Neural Network and Its Applications (2023)
+Cites count: 0
+Graph neural network (GNN) is an emerging field in deep learning. Graphs have more expressive power than any other data structure. Graph neural network is one of the application areas of deep learning, and it has applications in different domains where traditional convolutional neural networks cant give the desired result.
+keywords: graphs, gnn, domain, domains, graph neural network, application area, data, basically, basic, problem, apply
+url: http://dx.doi.org/10.4018/978-1-6684-6903-3.ch002
+
+20. Network-Guided Supervised Learning on Gene Expression Using a Graph Convolutional Neural Network (2021)
+Cites count: 0
+AbstractBackgroundTranscriptomic profiles have become crucial information in understanding diseases and improving treatments. While dysregulated gene sets are identified via pathway analysis, various machine learning models have been proposed for predicting phenotypes such as disease type and drug response based on gene expression patterns. However, these models still lack interpretability, as well as the ability to integrate prior knowledge from a protein-protein interaction network.ResultsWe propose Grandline, a graph convolutional neural network that can integrate gene expression data and structure of the protein interaction network to predict a specific phenotype.
+keywords: gene, jat, jats, interpretability, interpretable, learning model, information, predicting phenotype, network, allowing learn, predict, prediction, integrate, convolutional, convolution, improve, allow, allows, protein, title, grandline, disease improving, number
+url: http://dx.doi.org/10.1101/2021.12.27.474240
+
+21. Supervised Biological Network Alignment With Graph Neural Networks (2023)
+Cites count: 0
+AbstractMotivationDespite the advances in sequencing technology, massive proteins with known sequences remain functionally unannotated. Biological network alignment (NA), which aims to find the node correspondence between species’ protein-protein interaction (PPI) networks, has been a popular strategy to uncover missing annotations by transferring functional knowledge across species. Traditional NA methods assumed that topologically similar proteins in PPIs are functionally similar.
+keywords: functionally, functional, function, protein, jat, jats, grana, network, link, xlink, sequencing, sequence, pair, data, correspondence specie, title, http, topological, topologically similar, similarity, correspond, study, studies, learning, relationship, ppi, ppis, annotation, number, dataset
+url: http://dx.doi.org/10.1101/2023.04.24.538184
+
+22. Fundamentals of Graph for Graph Neural Network (2023)
+Cites count: 0
+The vertices, which are also known as nodes or points, and the edges, which are responsible for connecting the vertices to one another, are the two primary components that make up a graph. Graph theory is the mathematical study of graphs, which are structures that are used to depict relations between items by making use of a pairwise relationship between them. Graphs can be thought of as a visual representation of a mathematical equation.
+keywords: graph, graphs, theory mathematical, connecting, node
+url: http://dx.doi.org/10.4018/978-1-6684-6903-3.ch001
+
+23. A Graph Neural Network Recommendation Model With Knowledge Graph and Attention Mechanism (2023)
+Cites count: 0
+Abstract With the growth of e-commerce and social media platforms, recommendation systems have become crucial for businesses to increase user satisfaction and retention. Collaborative filtering has been the primary recommendation algorithm, but it faces challenges such as the cold start problem and data sparsity. Researchers have tried to introduce supplementary information to complement the data, and Graph Neural Networks (GNNs) have been useful in capturing the relevance of graphs in recommender systems.
+keywords: recommendation, recommender, user, graph, information, capturing, captured, algorithm, algorithms, node capture, gnns, gnn, data, interaction, item, traditional, fully, relationship, different, differently, based, jat, jats, filtering, social
+url: http://dx.doi.org/10.21203/rs.3.rs-2815491/v1
+
+24. Heterogeneous Graph Recommendation Model Based on Graph Neural Network (2022)
+Cites count: 0
+Abstract With the development of the Internet in recent years, the network information is exploding, people have entered the era of big data, from the lack of information in the past to the great information overload nowadays. It has become an important challenge to filter the information that is beneficial to you in the ocean of information on the Internet. As a subset of the information filtering system, the recommendation system mainly relies on the historical interaction records of users products and its own attribute information to explore the potential preferences and needs of users, which greatly reduces the time for users to filter information and is helpful for improving user experience and alleviating the information overload problem.
+keywords: network information, recommendation, recommend, user, interaction, based, problem, heterogeneous graph, algorithm, heterogeneity, product, node, contain, contains, internet, filter, filtering, cold, history
+url: http://dx.doi.org/10.21203/rs.3.rs-2102785/v1
+
+25. A Bipartite Heterogeneous Graph Recommendation Model Based on Graph Neural Network (2023)
+Cites count: 0
+Abstract Nowadays, big data and information technology have become mainstream, and the rapid growth of information volume has greatly met peoples needs. However, the surge in data volume has also brought a negative impact on people, the most prominent problem being the influx of more and more invalid information into peoples daily life. Graph data is one of the hot directions of current research in the field of data mining.
+keywords: graph, node, data information, paper, problem, cope, coping, network, feature, people, performance, achieve, achieves, research, user, subgraph, subgraphs, task, bipartite, organization, organized, jat, jats, mainstream
+url: http://dx.doi.org/10.21203/rs.3.rs-2937461/v1
+
+26. Investigating Graph Neural Network for RNA Structural Embedding (2022)
+Cites count: 0
+AbstractThe biological function of natural non-coding RNAs (ncRNA) is tightly bound to their molecular structure. Sequence analyses such as multiple sequence alignments (MSA) are the bread and butter of bio-molecules functional analysis; however, analyzing sequence and structure simultaneously is a difficult task. In this work, we propose CARNAGE (Clustering/Alignment of RNA with Graph-network Embedding), which leverages a graph neural network encoder to imprint structural information into a sequence-like embedding; therefore, downstream sequence analyses now account implicitly for structural constraints.
+keywords: structure, structural, rnas, rna, alignment, aligning, sequence analysis, network, function, functional, approach, jat, jats, problem, clustering, graph, needleman
+url: http://dx.doi.org/10.1101/2022.12.02.515916
+
+27. GRIP: Graph Representation of Immune Repertoire Using Graph Neural Network and Transformer (2023)
+Cites count: 0
+AbstractThe immune repertoire is a collection of immune receptors that has emerged as an important biomarker for both the diagnostic and therapeutic of cancer patients. In terms of deep learning, analyzing immune repertoire is a challenging multiple-instance learning problem in which the immune repertoire of an individual is a bag, and the immune receptor is an instance. Although several deep learning methods for immune repertoire analysis are introduced, they consider the immune repertoire as a set-like structure that doesn’t take into account the nature of the immune response.
+keywords: immune repertoire, graph, grip, structure, receptor, learning, pathogen, biomarker, method, result, introduced, novel, jat, jats, represents, better represented
+url: http://dx.doi.org/10.1101/2023.01.12.523879
+
+28. Spatial Network-Wide Traffic Flow Imputation With Graph Neural Network (2023)
+Cites count: 0
+&lt;p&gt;Traffic data plays an essential role in Intelligent Transportation Systems (ITS) and offers numerous advantages, including efficient traffic control and system performance improvement. However, due to the scarcity of data collection systems, missing data in traffic datasets is inevitable. Therefore, traffic data imputation becomes an essential task.
+keywords: traffic data, network, missing, task, propose, proposed, node, gnn, graph, operates, performance, evaluate, evaluation, imputation, spatial, essential, body
+url: http://dx.doi.org/10.36227/techrxiv.24237181
+
+29. Spatial Network-Wide Traffic Flow Imputation With Graph Neural Network (2023)
+Cites count: 0
+&lt;p&gt;Traffic data plays an essential role in Intelligent Transportation Systems (ITS) and offers numerous advantages, including efficient traffic control and system performance improvement. However, due to the scarcity of data collection systems, missing data in traffic datasets is inevitable. Therefore, traffic data imputation becomes an essential task.
+keywords: traffic data, network, missing, task, propose, proposed, node, gnn, graph, operates, performance, evaluate, evaluation, imputation, spatial, essential, body
+url: http://dx.doi.org/10.36227/techrxiv.24237181.v1
+
+30. View-Adaptive Graph Neural Network for Action Recognition (2022)
+Cites count: 0
+The dataset used in this article is NTU-RGB-60, 120 and Kinetics for skeleton based human action recognition.
+keywords: ntu, recognition
+url: http://dx.doi.org/10.36227/techrxiv.18318929.v1
+

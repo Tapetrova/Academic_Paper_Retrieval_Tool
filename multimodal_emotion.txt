@@ -1,0 +1,183 @@
+Search words: multimodal emotion recognition children
+Start date of search: 2014
+
+1. Emotion Recognition From Multimodal Physiological Signals for Emotion Aware Healthcare Systems (2020)
+Cites count: 54
+Abstract Purpose The purpose of this paper is to propose a novel emotion recognition algorithm from multimodal physiological signals for emotion aware healthcare systems. In this work, physiological signals are collected from a respiratory belt (RB), photoplethysmography (PPG), and fingertip temperature (FTT) sensors. These signals are used as their collection becomes easy with the advance in ergonomic wearable technologies. Methods Arousal and valence levels are recognized from the fused physiological signals using the relationship between physiological signals and emotions.
+keywords: jat, jats, physiological signal, methods, method, emotion recognition, title, fusion, level, fingertip, source, accuracy, results
+url: http://dx.doi.org/10.1007/s40846-019-00505-7
+
+2. A Multimodal Facial Emotion Recognition Framework Through the Fusion of Speech With Visible and Infrared Images (2020)
+Cites count: 24
+The exigency of emotion recognition is pushing the envelope for meticulous strategies of discerning actual emotions through the use of superior multimodal techniques. This work presents a multimodal automatic emotion recognition (AER) framework capable of differentiating between expressed emotions with high accuracy. The contribution involves implementing an ensemble-based approach for the AER through the fusion of visible images and infrared (IR) images with speech.
+keywords: emotion, fusion, accuracy, framework, combine, combined, decision, image, feature, work, multimodal, obtain, obtained, modality, classifies, classifier, approach, aer
+url: http://dx.doi.org/10.3390/mti4030046
+
+3. Multimodal Approach for Emotion Recognition Based on Simulated Flight Experiments (2019)
+Cites count: 15
+The present work tries to fill part of the gap regarding the pilots’ emotions and their bio-reactions during some flight procedures such as, takeoff, climbing, cruising, descent, initial approach, final approach and landing. A sensing architecture and a set of experiments were developed, associating it to several simulated flights ( N f l i g h t s = 13 ) using the Microsoft Flight Simulator Steam Edition (FSX-SE). The approach was carried out with eight beginner users on the flight simulator ( N p i l o t s = 8 ).
+keywords: emotion, flight, approach, mean, error, pilot, recognize, gsr, output model, mae, considered, recognition, sad, surprise, surprised, present, based, developed
+url: http://dx.doi.org/10.3390/s19245516
+
+4. Multimodal Emotion Recognition From Art Using Sequential Co-Attention (2021)
+Cites count: 12
+In this study, we present a multimodal emotion recognition architecture that uses both feature-level attention (sequential co-attention) and modality attention (weighted modality fusion) to classify emotion in art. The proposed architecture helps the model to focus on learning informative and refined representations for both feature extraction and modality fusion. The resulting system can be used to categorize artworks according to the emotions they evoke; recommend paintings that accentuate or balance a particular mood; search for paintings of a particular style or genre that represents custom content in a custom state of impact.
+keywords: emotion recognition architecture, modality, proposed, particular, painting, custom, feature attention
+url: http://dx.doi.org/10.3390/jimaging7080157
+
+5. Deep Multimodal Emotion Recognition on Human Speech: A Review (2021)
+Cites count: 11
+This work reviews the state of the art in multimodal speech emotion recognition methodologies, focusing on audio, text and visual information. We provide a new, descriptive categorization of methods, based on the way they handle the inter-modality and intra-modality dynamics in the temporal dimension: (i) non-temporal architectures (NTA), which do not significantly model the temporal dimension in both unimodal and multimodal interaction; (ii) pseudo-temporal architectures (PTA), which also assume an oversimplification of the temporal dimension, although in one of the unimodal or multimodal interactions; and (iii) temporal architectures (TA), which try to capture both unimodal and cross-modal temporal dependencies. In addition, we review the basic feature representation methods for each modality, and we present aggregated evaluation results on the reported methodologies.
+keywords: modality, temporal dimension, method, methodology, review, multimodal, representation, unimodal, architecture, analysis future challenge
+url: http://dx.doi.org/10.3390/app11177962
+
+6. Fostering Emotion Recognition in Children With Autism Spectrum Disorder (2021)
+Cites count: 8
+Facial expressions are of utmost importance in social interactions, allowing communicative prompts for a speaking turn and feedback. Nevertheless, not all have the ability to express themselves socially and emotionally in verbal and non-verbal communication. In particular, individuals with Autism Spectrum Disorder (ASD) are characterized by impairments in social communication, repetitive patterns of behaviour, and restricted activities or interests.
+keywords: social, express socially, communication, allowing communicative, asd, allow, allowed, facial expression, robotic, emotion, support, intel, recognition, platform, verbal, activity, zeca, child, work
+url: http://dx.doi.org/10.3390/mti5100057
+
+7. Emotion Monitoring for Preschool Children Based on Face Recognition and Emotion Recognition Algorithms (2021)
+Cites count: 7
+In this paper, we study the face recognition and emotion recognition algorithms to monitor the emotions of preschool children. For previous emotion recognition focusing on faces, we propose to obtain more comprehensive information from faces, gestures, and contexts. Using the deep learning approach, we design a more lightweight network structure to reduce the number of parameters and save computational resources.
+keywords: method designed, propose, proposed, facial, study face recognition emotion, new feature, expression, design, data, variation, previous, compared, performed dataset
+url: http://dx.doi.org/10.1155/2021/6654455
+
+8. RAMAS: Russian Multimodal Corpus of Dyadic Interaction for Studying Emotion Recognition (2018)
+Cites count: 3
+Emotion expression encompasses various types of information, including face and eye movement, voice and body motion. Most of the studies in automated affective recognition use faces as stimuli, less often they include speech and even more rarely gestures. Emotions collected from real conversations are difficult to classify using one channel.
+keywords: multimodal, emotion, emotions collected, scenario, database, including face, collection, process, annotator, annotation, include, affective, physiological, physiology data, automatic, interaction, recording subject, played interactive, motion, russian, self, record
+url: http://dx.doi.org/10.7287/peerj.preprints.26688v1
+
+9. Sensitivity to Emotion Intensity and Recognition of Emotion Expression in Neurotypical Children (2021)
+Cites count: 2
+This study assessed two components of face emotion processing: emotion recognition and sensitivity to intensity of emotion expressions and their relation in children age 4 to 12 (N = 216). Results indicated a slower development in the accurate decoding of low intensity expressions compared to high intensity. Between age 4 and 12, children discriminated high intensity expressions better than low ones.
+keywords: expression, intensity, face emotion, low, development, recognition, high
+url: http://dx.doi.org/10.3390/children8121108
+
+10. Multimodal Emotion Recognition With Hierarchical Memory Networks (2021)
+Cites count: 1
+Emotion recognition in conversations is crucial as there is an urgent need to improve the overall experience of human-computer interactions. A promising improvement in this field is to develop a model that can effectively extract adequate contexts of a test utterance. We introduce a novel model, termed hierarchical memory networks (HMN), to address the issues of recognizing utterance level emotions.
+keywords: model, improve, improvement, experience, experiments, hmn, storage, context test utterance, dependency, different aspect, emotional dependent, local, memory, emotion
+url: http://dx.doi.org/10.3233/ida-205183
+
+11. A Comprehensive Analysis of Multimodal Speech Emotion Recognition (2021)
+Cites count: 1
+Abstract Emotion recognition is critical in dealing with everyday interpersonal human interactions. Understanding a person’s emotions through his speech can do wonders for shaping social interactions. Because of the rapid development of social media, single-modal emotion recognition is finding it difficult to meet the demands of the current emotional recognition system.
+keywords: emotional, emotion recognition, speech, interaction, social, text, accuracy, jat, jats, savee datasets
+url: http://dx.doi.org/10.1088/1742-6596/1917/1/012009
+
+12. Evaluating Significant Features in Context-Aware Multimodal Emotion Recognition With XAI Methods (2023)
+Cites count: 0
+ Analysis of human emotions from multimodal data for making critical decisions is an emerging area of research. The evolution of deep learning algorithms has improved the potential for extracting value from multimodal data. However, these algorithms do not often explain how certain outputs from the data are produced. This study focuses on the risks of using black-box deep learning models for critical tasks, such as emotion recognition, and describes how human understandable interpretations of these models are extremely important.
+keywords: model, feature, study, describes, human emotion multimodal data making critical, cmu, extracting, reduced, improved, improve, interpretation, interpret contribution, contributing
+url: http://dx.doi.org/10.22541/au.167407909.97031004/v1
+
+13. Emotion Recognition From Facial Expression in a Noisy Environment (2023)
+Cites count: 0
+This study presents emotion recognition from facial expressions in a noisy environment. The challenges addressed in this study are noise in the images and illumination changes. Wavelets have been extensively used for noise reduction; therefore, we have applied wavelet and curvelet analysis from noisy images.
+keywords: wavelets, wavelet, recognition, different, noise image illumination change, experimentation, experimental, noisy, machine learning
+url: http://dx.doi.org/10.2174/9789815124453123010010
+
+14. Emotion Recognition Expressed on the Face by Multimodal Method Using Deep Learning (2019)
+Cites count: 0
+Emotional recognition plays a vital role in the behavioral and emotional interactions between humans. It is a difficult task because it relies on the prediction of abstract emotional states from multimodal input data. Emotion recognition systems operate in three phases.
+keywords: emotion, extract, extraction, emotional recognition, different, network, classification, facial expression, method, expressed, prediction, predict, nose, eyebrow, input
+url: http://dx.doi.org/10.35940/ijeat.a1825.129219
+
+15. Audiovisual Emotion Recognition Using Entropy-Estimation-Based Multimodal Information Fusion (2021)
+Cites count: 0
+Understanding human emotional states is indispensable for our daily interaction, and we can enjoy more natural and friendly human computer interaction (HCI) experience by fully utilizing human’s affective states. In the application of emotion recognition, multimodal information fusion is widely used to discover the relationships of multiple information sources and make joint use of a number of channels, such as speech, facial expression, gesture and physiological processes. This thesis proposes a new framework of emotion recognition using information fusion based on the estimation of information entropy.
+keywords: information fusion, emotion, proposed, based, existing method, human emotional state, thesis proposes new, interaction, applied feature, entropy, effective, effectiveness, score, experience, experiment, audiovisual, use number channel
+url: http://dx.doi.org/10.32920/ryerson.14668260
+
+16. Audiovisual Emotion Recognition Using Entropy-Estimation-Based Multimodal Information Fusion (2021)
+Cites count: 0
+Understanding human emotional states is indispensable for our daily interaction, and we can enjoy more natural and friendly human computer interaction (HCI) experience by fully utilizing human’s affective states. In the application of emotion recognition, multimodal information fusion is widely used to discover the relationships of multiple information sources and make joint use of a number of channels, such as speech, facial expression, gesture and physiological processes. This thesis proposes a new framework of emotion recognition using information fusion based on the estimation of information entropy.
+keywords: information fusion, emotion, proposed, based, existing method, human emotional state, thesis proposes new, interaction, applied feature, entropy, effective, effectiveness, score, experience, experiment, audiovisual, use number channel
+url: http://dx.doi.org/10.32920/ryerson.14668260.v1
+
+17. A Negative Emotion Recognition System With IoT-Based Multimodal Biosignal Data (2023)
+Cites count: 0
+Previous studies to recognize negative emotions (e.g. disgust, fear, sadness) for mental health care have used heavy equipment directly attaching electroencephalogram (EEG) electrodes to the head, making it difficult to use in daily life, and they have proposed binary classification methods to determine whether negative emotion or not. To tackle this problem, we propose a negative emotion recognition system to collect multimodal biosignal data such as five EEG signals in an EEG headset and heart rate, galvanic skin response, and skin temperature in a smart band for classifying multiple negative emotions.
+keywords: iot, eeg, negative emotion, data, server, proposed, propose, machine, skin, kernel, android, rbf, multimodal, application, model
+url: http://dx.doi.org/10.20944/preprints202309.1560.v1
+
+18. A Transfer Learning-Based Approach for Multimodal Emotion Recognition (2020)
+Cites count: 0
+The topic of multimodal emotion recognition is one that is expanding at a rapid rate. The goal of this field is to identify and comprehend human emotions through the use of many modalities, such as speech, facial expressions, and physiological data. Transfer learning strategies have been found to be successful in overcoming the issues of processing and integrating material from a variety of modalities, as demonstrated by the findings of a number of studies.
+keywords: data, model, modality, goal, multimodal emotion, use, useful, integrating, integration, accurate, overcoming issue, overcome order, research, variety
+url: http://dx.doi.org/10.17762/turcomat.v11i3.13597
+
+19. A Unified Transformer-Based Network for Multimodal Emotion Recognition (2023)
+Cites count: 0
+&lt;p&gt;The development of transformer-based models has resulted in significant advances in addressing various vision and NLP-based research challenges. However, the progress made in transformer-based methods has not been effectively applied to biosensing research. This paper presents a novel Unified Biosensor-Vision Multi-modal Transformer-based (UBVMT) method to classify emotions in an arousal-valence space by combining a 2D representation of an ECG/PPG signal with the face information.
+keywords: modeling, emotion, transformer model resulted, ubvmt, signal face, unified, comparable result, compare, research, modality, trained, method, present
+url: http://dx.doi.org/10.36227/techrxiv.23916123
+
+20. A Unified Transformer-Based Network for Multimodal Emotion Recognition (2023)
+Cites count: 0
+&lt;p&gt;The development of transformer-based models has resulted in significant advances in addressing various vision and NLP-based research challenges. However, the progress made in transformer-based methods has not been effectively applied to biosensing research. This paper presents a novel Unified Biosensor-Vision Multi-modal Transformer-based (UBVMT) method to classify emotions in an arousal-valence space by combining a 2D representation of an ECG/PPG signal with the face information.
+keywords: modeling, emotion, transformer model resulted, ubvmt, signal face, unified, comparable result, compare, research, modality, trained, method, present
+url: http://dx.doi.org/10.36227/techrxiv.23916123.v1
+
+21. Multimodal Fusion Framework: Emotion Recognition From Physiological Signals (2023)
+Cites count: 0
+This study presents a multimodal fusion framework for emotion recognition from physiological signals. In contrast to emotion recognition through facial expression, a large number of emotions can be recognized accurately through physiological signals. The DEAP database, a benchmark multimodal database with many collections of EEG and peripheral signals, is employed for experimentation.
+keywords: feature, eeg, emotion recognition physiological signal, performance, performs, beta, experimentation, experimental, theta, multimodal fusion
+url: http://dx.doi.org/10.2174/9789815124453123010012
+
+22. Emotion Recognition in Teachers Teaching Behavior Based on Multimodal Data Analysis (2023)
+Cites count: 0
+Abstract The teaching effect and learning state of teachers are significantly influenced by many emotions that are manifested in teaching behaviour. The affective recognition model can be applied to the analysis of useful teaching feedback data found in teaching behaviour data to assist teachers in raising the level of instruction they provide. The accuracy of emotion classification is impacted by the typical emotion recognition models inability to completely distinguish the intricate emotional aspects and hints in instructional conduct.
+keywords: emotion, emotional, model, interactive, teaching, interaction mode, teacher, data, level instruction, behaviour, classification, performance, performs, time, instructional, local feature, demonstrate, demonstrated, jat, jats, dynamic convolution
+url: http://dx.doi.org/10.21203/rs.3.rs-2489595/v1
+
+23. A Multimodal Assessment of Emotion Dysregulation in Young Children With and Without ADHD (2020)
+Cites count: 0
+Objective: This study utilized a multimodal approach to examine emotion dysregulation (ED) in young children with attention-deficit/hyperactivity disorder (ADHD), ADHD + oppositional defiant disorder (ODD), and typically developing (TD) children. Methods: We sought to explore if specific domains of ED (emotion regulation ER, negativity/lability ERNL, emotion knowledge/understanding ERU, and callous-unemotional CU behaviors) were uniquely associated with diagnostic classifications. The final sample consisted of 152 children (75% boys; mean age = 5.52, SD = .84, 83.4% Latinx) with the following group composition: ADHD- Only (n = 24), ADHD + ODD (n = 54), and TD (n = 74).
+keywords: adhd, child, odd, associated, association, ernl, correctly, examine emotion, utility, ereg, preschooler, preschool, sample, study utilized, disorder, explore, eru, group
+url: http://dx.doi.org/10.31234/osf.io/z9emy
+
+24. Spatial-Temporal Preserving Multimodal Algorithm for EEG-based Emotion Recognition (2023)
+Cites count: 0
+Emotion recognition has been the focus of some human computer interaction researchers. Designing an efficient algorithm for emotion recognition is crucial for its potential use in HCI. Many algorithms have been developed for emotion recognition and a majority of them is based on electroencephalography (EEG).
+keywords: eeg, algorithm, emotion recognition, signal, fusion, strnn, spatial, improved
+url: http://dx.doi.org/10.54097/hset.v61i.10293
+
+25. Cross-Cultural Emotion Recognition in Adults and Children (2021)
+Cites count: 0
+The current studies investigated cross-cultural emotion recognition in South Asian and Caucasian Canadian adults and children. The two main goals of the current research were to disentangle the effects of culture and race on cross-cultural emotion recognition and to chart the development of cross-cultural differences in emotion recognition. Both adults and children completed an emotion recognition task, viewing faces of four different racial/cultural groups (South Asian Canadians and immigrants, Caucasian Canadian and immigrants).
+keywords: culture, cultural, caucasian, adult, adults, cross, recognition, level, asian, current, exposure, south
+url: http://dx.doi.org/10.32920/ryerson.14664984
+
+26. Automatic Multimodal Emotion Recognition Using Facial Expression, Voice, and Text (2022)
+Cites count: 0
+It has been a long-time dream for humans to interact with a machine as we would with a person, in a way that it understands us, advises us, and looks after us with no human supervision. Despite being efficient on logical reasoning, current advanced systems lack empathy and user understanding. Estimating the users emotion could greatly help the machine to identify the users needs and adapt its behaviour accordingly.
+keywords: emotion, user understanding, human, machine, understands, facial, adapt, current
+url: http://dx.doi.org/10.24963/ijcai.2022/843
+
+27. Protected Multimodal Emotion Recognition (2021)
+Cites count: 0
+In this thesis, we propose Protected Multimodal Emotion recognition (PMM-ER), an emotion recognition approach that includes security features against the growing rate of cyber-attacks on various databases, including emotion databases. The analysis on the frequently used encryption algorithms has led to the modified encryption algorithm proposed in this work. The system is able to recognize 7 different emotions, i.e.
+keywords: feature, analysis, including, propose, proposed, approach includes, emotion recognition, algorithm, audio wave, sadness, disgust, coefficient, fear
+url: http://dx.doi.org/10.32920/ryerson.14668203
+
+28. Spontaneous Emotion Recognition From Audio-Visual Signals (2023)
+Cites count: 0
+This chapter introduces an emotion recognition system based on audio and video cues. For audio-based emotion recognition, we have explored various aspects of feature extraction and classification strategy and found that wavelet analysis is sound. We have shown comparative results for discriminating capabilities of various combinations of features using the Fisher Discriminant Analysis (FDA). Finally, we have combined the audio and video features using a feature-level fusion approach.
+keywords: fusion, result discriminating, feature, modality, modalities, multiple, discriminant, analysis, performed, performance, based audio
+url: http://dx.doi.org/10.2174/9789815124453123010011
+
+29. Cross-Cultural Emotion Recognition in Adults and Children (2021)
+Cites count: 0
+The current studies investigated cross-cultural emotion recognition in South Asian and Caucasian Canadian adults and children. The two main goals of the current research were to disentangle the effects of culture and race on cross-cultural emotion recognition and to chart the development of cross-cultural differences in emotion recognition. Both adults and children completed an emotion recognition task, viewing faces of four different racial/cultural groups (South Asian Canadians and immigrants, Caucasian Canadian and immigrants).
+keywords: culture, cultural, caucasian, adult, adults, cross, recognition, level, asian, current, exposure, south
+url: http://dx.doi.org/10.32920/ryerson.14664984.v1
+
+30. Protected Multimodal Emotion Recognition (2021)
+Cites count: 0
+In this thesis, we propose Protected Multimodal Emotion recognition (PMM-ER), an emotion recognition approach that includes security features against the growing rate of cyber-attacks on various databases, including emotion databases. The analysis on the frequently used encryption algorithms has led to the modified encryption algorithm proposed in this work. The system is able to recognize 7 different emotions, i.e.
+keywords: feature, analysis, including, propose, proposed, approach includes, emotion recognition, algorithm, audio wave, sadness, disgust, coefficient, surprise
+url: http://dx.doi.org/10.32920/ryerson.14668203.v1
+
