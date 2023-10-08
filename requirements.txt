@@ -1,0 +1,7 @@
+pandas
+habanero
+titlecase
+gensim
+nltk
+tabulate
+tkinter
