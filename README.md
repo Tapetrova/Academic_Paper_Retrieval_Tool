@@ -7,6 +7,7 @@ The Academic Paper Fetcher is a Python-based tool designed to search, retrieve, 
 All project dependencies are listed in the `requirements.txt` file. Install the dependencies using the following command:
 ```bash
 pip install -r requirements.txt
+```bash
 
 ## Usage
 * First, ensure that all dependencies are installed using the command above.
